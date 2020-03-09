@@ -133,7 +133,11 @@ def play
   #stops playing in a draw
   #prints "Cat\'s Game!" on a draw
   #plays through an entire game
+
+    turn until over?
+    puts winner ? "Congratulations #{winner}!" : "Cat's Game!"
+  end
   
-end
+
 
 end
