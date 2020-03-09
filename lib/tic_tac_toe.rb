@@ -125,6 +125,7 @@ end
 def play
   #asks for players input on a turn of the game
   #checks if the game is over after every turn
+  #plays the first turn of the game
   #
   
 end
