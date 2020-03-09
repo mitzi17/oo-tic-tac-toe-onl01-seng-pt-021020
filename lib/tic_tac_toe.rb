@@ -122,4 +122,8 @@ def winner
   #@board[self.won?[0]] if self.won?
 end
 
+def play
+  
+end
+
 end
