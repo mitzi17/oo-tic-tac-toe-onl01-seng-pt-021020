@@ -128,6 +128,7 @@ def play
   #plays the first turn of the game
   #checks if the game is won after every turn
   #checks if the game is draw after every turn
+  #stops playing if someone has won
   #
   
 end
