@@ -130,6 +130,7 @@ def play
   #checks if the game is draw after every turn
   #stops playing if someone has won
   #congratulates the winner X or O
+  #stops playing in a draw
   #
   
 end
