@@ -131,7 +131,7 @@ def play
   #stops playing if someone has won
   #congratulates the winner X or O
   #stops playing in a draw
-  #
+  #prints "Cat\'s Game!" on a draw
   
 end
 
