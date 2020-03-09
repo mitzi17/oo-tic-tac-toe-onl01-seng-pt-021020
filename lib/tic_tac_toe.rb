@@ -132,6 +132,7 @@ def play
   #congratulates the winner X or O
   #stops playing in a draw
   #prints "Cat\'s Game!" on a draw
+  #plays through an entire game
   
 end
 
